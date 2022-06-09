@@ -1,0 +1,5 @@
+C:\Users\jacks\Documents\My Games\Terraria\tModLoader\ModSources\RandomWeapons\obj\Debug\net6.0\RandomWeapons.csproj.AssemblyReference.cache
+C:\Users\jacks\Documents\My Games\Terraria\tModLoader\ModSources\RandomWeapons\obj\Debug\net6.0\RandomWeapons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacks\Documents\My Games\Terraria\tModLoader\ModSources\RandomWeapons\obj\Debug\net6.0\RandomWeapons.AssemblyInfoInputs.cache
+C:\Users\jacks\Documents\My Games\Terraria\tModLoader\ModSources\RandomWeapons\obj\Debug\net6.0\RandomWeapons.AssemblyInfo.cs
+C:\Users\jacks\Documents\My Games\Terraria\tModLoader\ModSources\RandomWeapons\obj\Debug\net6.0\RandomWeapons.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G6u+hw+lfe6hzZCxnZ5jkvX5scaGTmxtc1YQDoszhgm5UMr5DVZKXv0dJFISIQHm5vs/0q6BkTRHRb3X8+dd8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jacks\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\RandomWeapons\\RandomWeapons.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jacks\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
